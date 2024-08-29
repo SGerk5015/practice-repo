@@ -1,27 +1,27 @@
-## First Name Last Name
+## Samuel Gerken
 
-### Term Year 
+### Sophmore 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Foundations of Data Analytics
 
-- Course 2
+- Discrete Mathematics
 
-- Course 3
+- Statistics 1
 
-- Course 4
+- Environmental Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Lacrosse
 
-- Thing 2
+- Golf
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Sitting in my dorm all day and playing video games!!!
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/08/29
